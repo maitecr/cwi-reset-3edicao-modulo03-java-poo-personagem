@@ -33,6 +33,9 @@ public class Sonic {
 		sonic.capturouAnel();
 		sonic.possuiAnel();*/
 
+		//Adicionados os métodos que fazem com que Sonic ganhe ou perca velocidade.
+		/* sonic.ganharVelocidade();
+		sonic.perderVelocidade();*/
 	}
 
 }
