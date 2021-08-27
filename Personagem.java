@@ -118,4 +118,22 @@ public class Personagem {
 		}
 		System.out.println("");
 	}
+	
+		public void perderVelocidade() {
+		this.velocidade = this.velocidade - 10;
+		if (this.velocidade < 0) {
+			this.velocidade = 0;
+		} else {
+			this.setVelocidade(this.velocidade);
+		}
+	}
+	
+	public void ganharVelocidade() {
+		this.velocidade = this.velocidade + 5;
+		if(this.getVelocidade() >= 100) {
+			this.setVelocidade(100);
+		} else {
+			this.setVelocidade(this.velocidade);
+		}
+	}
 }
