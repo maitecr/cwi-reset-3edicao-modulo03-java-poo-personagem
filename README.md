@@ -1,5 +1,7 @@
 # cwi-reset-3edicao-modulo03-java-poo-personagem
 
+![sonic](https://user-images.githubusercontent.com/81782090/131173130-cac61b3d-f3b1-4469-bc14-059e3caf4920.jpg)
+
 Este repositório será destinado apenas às soluções dos exercícios propostos, elaboradas por mim, durante a 3ª Edição do programa Reset da empresa CWI. Estarão disponibilizados os códigos correspondentes ao Módulo 03, onde foi a Programação Orientada a Objeto, voltada para a linguagem Java.
 
 As atualizações deste projeto serão registradas neste README.md e, ao final de cada uma delas, estará informada a data.
