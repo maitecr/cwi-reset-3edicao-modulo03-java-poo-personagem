@@ -25,3 +25,5 @@ c) Introdução aos métodos getters, setters e de construção. Assim, aprenden
 d) Criação de métodos que automatizem a alteração na variável velocidade. Foi desenvolvimento um médodo para ganhar velocidade (acrescentando 5 pontos) e um método para perder velocidade (decrescendo 10 pontos).
                                                                              
                                                           Obs.: atualização referente ao dia 28 de Agosto de 2021.
+
+Continuação da atividade: https://github.com/maitecr/cwi-reset-3edicao-modulo03-java-poo-personagem-v2
